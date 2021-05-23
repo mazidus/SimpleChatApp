@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306579489661",
+    "project_id": "chat-5928b",
+    "storage_bucket": "chat-5928b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306579489661:android:c08b88eb43491df8bf8214",
+        "android_client_info": {
+          "package_name": "com.mzds.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306579489661-k7nmuk8ufm5afep6c3il0lialdrvfbna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Sv6SxjKIs7AWG0uhzC5Y3d3mHUQdzfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306579489661-k7nmuk8ufm5afep6c3il0lialdrvfbna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
